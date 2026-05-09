@@ -1,0 +1,84 @@
+/* 导航栏 浅蓝渐变 浅色风 */
+#page-header {
+
+    background: #0F2027;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+/* 文章卡片 纯白浅底 */
+#recent-posts>.recent-post-item {
+    background: #ffffff;
+    --font-color: #333;
+    color: #555;
+}
+
+#recent-posts>.recent-post-item>.recent-post-info>.article-title {
+    color: #222;
+}
+
+/* 侧边栏、卡片、分页 统一浅白 */
+.cardHover,
+.layout>div:first-child:not(.recent-posts),
+#recent-posts>.recent-post-item,
+#aside-content .card-widget,
+.layout>.recent-posts .pagination>*:not(.space) {
+    background: #ffffff;
+    --font-color: #333;
+    color: #555;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+#article-container h2 {
+    padding-left: 30px;
+}
+
+#article-container h1,
+#article-container h2,
+#article-container h3,
+#article-container h4,
+#article-container h5,
+#article-container h6 {
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    -ms-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+    color: #2c8c42;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #2c8c42;
+}
+
+/* 页脚透明渐变 */
+#footer {
+    background: #000000;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #434343, #000000);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #434343, #000000);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#footer::before {
+    background: rgba(0, 0, 0, 0.05);
+}
+
+#footer #footer-wrap {
+    color: #555
+}
+
+#footer #footer-wrap a {
+    color: #2c8c42;
+}
