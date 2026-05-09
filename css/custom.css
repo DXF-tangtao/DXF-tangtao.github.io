@@ -60,6 +60,13 @@ h6 {
     color: #2c8c42;
 }
 
+/* ========== 加宽首页文章卡片 ========== */
+  .layout {
+  max-width: 1600px !important;
+}
+ 
+
+
 /* 页脚透明渐变 */
 #footer {
     background: #000000;
