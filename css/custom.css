@@ -21,6 +21,22 @@
     color: #222;
 }
 
+/*=========== 博客正文 字体变大 + 颜色加深 ===========*/
+
+/* 首页列表文字 同样加深加大 */
+.article-item .article-content {
+  font-size: 17px !important;
+  color: #444 !important;
+}
+
+/* 段落、普通文字统一加深 */
+p {
+  color: #333 !important;
+  font-size: 17px !important;
+}
+
+/*=========== 博客正文 字体变大 + 颜色加深=========== */
+
 /* 侧边栏、卡片、分页 统一浅白 */
 .cardHover,
 .layout>div:first-child:not(.recent-posts),
