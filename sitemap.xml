@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://cntravelai.com/posts/49ad374c/</loc>
+    
+    <lastmod>2026-05-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://cntravelai.com/posts/1f5b8cfe/</loc>
     
     <lastmod>2026-05-10</lastmod>
@@ -145,14 +154,28 @@
   </url>
   
   <url>
-    <loc>https://cntravelai.com/tags/REDIS/</loc>
+    <loc>https://cntravelai.com/tags/VPN/</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://cntravelai.com/tags/VPN/</loc>
+    <loc>https://cntravelai.com/tags/Cyberpunk/</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cntravelai.com/tags/Tech-Cultivation/</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cntravelai.com/tags/REDIS/</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
