@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://cntravelai.com/posts/32ce138d/</loc>
+    
+    <lastmod>2026-05-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://cntravelai.com/posts/85e85e2c/</loc>
     
     <lastmod>2026-05-14</lastmod>
@@ -155,6 +164,34 @@
 
   
   <url>
+    <loc>https://cntravelai.com/tags/Hantavirus/</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cntravelai.com/tags/Andes-Virus/</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cntravelai.com/tags/Public-Health/</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cntravelai.com/tags/Virus/</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://cntravelai.com/tags/China-Travel/</loc>
     <lastmod>2026-05-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -246,6 +283,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://cntravelai.com/categories/World-Hot-Topics/</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://cntravelai.com/categories/Travel/</loc>
