@@ -209,6 +209,13 @@
 
   
   <url>
+    <loc>https://cntravelai.com/tags/Chelsea-vs-Manchester-City/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://cntravelai.com/tags/Music/</loc>
     <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -216,7 +223,14 @@
   </url>
   
   <url>
-    <loc>https://cntravelai.com/tags/Chelsea-vs-Manchester-City/</loc>
+    <loc>https://cntravelai.com/tags/Cyberpunk/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cntravelai.com/tags/Tech-Cultivation/</loc>
     <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -238,20 +252,6 @@
   
   <url>
     <loc>https://cntravelai.com/tags/Cyberpunk-China/</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cntravelai.com/tags/Cyberpunk/</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cntravelai.com/tags/Tech-Cultivation/</loc>
     <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -286,20 +286,6 @@
   </url>
   
   <url>
-    <loc>https://cntravelai.com/tags/JAVA/</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cntravelai.com/tags/API/</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://cntravelai.com/tags/Forza-Horizon-6/</loc>
     <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -315,6 +301,20 @@
   
   <url>
     <loc>https://cntravelai.com/tags/Open-World-Games/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cntravelai.com/tags/JAVA/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cntravelai.com/tags/API/</loc>
     <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -356,13 +356,6 @@
   </url>
   
   <url>
-    <loc>https://cntravelai.com/tags/REDIS/</loc>
-    <lastmod>2026-05-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://cntravelai.com/tags/Chongqing/</loc>
     <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -371,6 +364,13 @@
   
   <url>
     <loc>https://cntravelai.com/tags/Cyberpunk-City/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cntravelai.com/tags/REDIS/</loc>
     <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
