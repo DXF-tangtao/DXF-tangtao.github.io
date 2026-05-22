@@ -223,6 +223,20 @@
   </url>
   
   <url>
+    <loc>https://cntravelai.com/tags/Cyberpunk/</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cntravelai.com/tags/Tech-Cultivation/</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://cntravelai.com/tags/China-Travel/</loc>
     <lastmod>2026-05-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -238,20 +252,6 @@
   
   <url>
     <loc>https://cntravelai.com/tags/Cyberpunk-China/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cntravelai.com/tags/Cyberpunk/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cntravelai.com/tags/Tech-Cultivation/</loc>
     <lastmod>2026-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -342,13 +342,6 @@
   </url>
   
   <url>
-    <loc>https://cntravelai.com/tags/Unitree-Robotics/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://cntravelai.com/tags/Chongqing/</loc>
     <lastmod>2026-05-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -357,6 +350,13 @@
   
   <url>
     <loc>https://cntravelai.com/tags/Cyberpunk-City/</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cntravelai.com/tags/Unitree-Robotics/</loc>
     <lastmod>2026-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
