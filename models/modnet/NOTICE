@@ -1,0 +1,7 @@
+MODNet model assets
+Source: https://huggingface.co/Xenova/modnet
+Original project: https://github.com/ZHKKKe/MODNet
+Model author: Zhanghan Ke and the MODNet contributors
+ONNX conversion: Xenova
+License: Apache License 2.0 (see LICENSE)
+The model is used for local portrait background removal. No model weights were modified.
