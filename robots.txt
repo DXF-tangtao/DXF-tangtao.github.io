@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://cntravelai.com/sitemap.xml
-Sitemap: https://cntravelai.com/baidusitemap.xml
